@@ -1,0 +1,293 @@
+
+Nov 01, 2023 15:16:09.54 NEW SESSION
+Nov 01, 2023 15:16:09.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 06, 2023 14:37:05.00 NEW SESSION
+Nov 06, 2023 14:37:05.00 [11300:11148:1106/143705.005:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 06, 2023 14:38:14.79 [11300:11148:1106/143814.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Nov 06, 2023 16:29:51.32 [10368:6312:1106/162951.327:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 06, 2023 16:58:18.38 [10368:6312:1106/165818.387:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Nov 07, 2023 14:27:00.09 NEW SESSION
+Nov 07, 2023 14:27:00.09 [5708:1920:1107/142700.085:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+
+Nov 22, 2023 17:14:31.33 NEW SESSION
+Nov 22, 2023 17:14:31.33 [11752:13040:1122/171431.318:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+
+Nov 23, 2023 13:20:57.88 NEW SESSION
+Nov 23, 2023 13:20:57.88 [3872:1968:1123/132057.883:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Nov 23, 2023 13:25:26.32 [3872:1968:1123/132526.322:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 23, 2023 13:39:09.09 [3872:1968:1123/133909.094:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 23, 2023 14:54:17.28 [3872:1968:1123/145417.284:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 13, 2023 17:09:33.38 NEW SESSION
+Dec 13, 2023 17:09:33.38 [7412:14516:1213/170933.326:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 13, 2023 17:22:27.29 [7412:14516:1213/172226.923:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 18, 2023 13:52:29.54 NEW SESSION
+Dec 18, 2023 13:52:29.54 [14112:14744:1218/135229.538:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 18, 2023 14:21:29.55 [14112:11012:1218/142129.552:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 14:27:26.28 [14112:11012:1218/142726.288:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 14:36:54.07 [14112:11012:1218/143654.046:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 14:38:35.14 [14112:11012:1218/143835.149:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 14:39:26.64 [14112:11012:1218/143926.647:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 17:12:13.76 [14112:11012:1218/171213.662:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 17:31:43.85 [14112:11012:1218/173143.855:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 17:55:44.79 [14112:11012:1218/175544.787:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 18, 2023 17:56:10.70 [14112:11012:1218/175610.706:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 18, 2023 17:56:43.13 [14112:11012:1218/175643.138:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 18, 2023 18:02:35.93 [14112:11012:1218/180235.938:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 18:12:53.39 [14112:11012:1218/181253.382:ERROR:connection_handler_impl.cc(472)] Timed out waiting for GCM Protocol buffer.
+Dec 18, 2023 18:12:53.41 [14112:11012:1218/181253.383:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -7
+Dec 18, 2023 18:42:44.14 [14112:11012:1218/184244.140:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 19:00:43.81 [14112:11012:1218/190043.817:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 18, 2023 19:16:29.00 [14112:11012:1218/191629.004:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 19:26:30.41 [14112:11012:1218/192630.413:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 18, 2023 19:27:10.15 [14112:11012:1218/192710.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+
+Dec 20, 2023 13:52:20.77 NEW SESSION
+Dec 20, 2023 13:52:20.78 [8084:5064:1220/135220.740:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 20, 2023 14:03:01.75 [8084:11824:1220/140301.755:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 14:44:07.27 [8084:11824:1220/144407.256:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 17:19:54.90 [8084:11824:1220/171954.885:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 17:46:59.25 [8084:11824:1220/174659.241:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 20, 2023 18:25:29.22 [8084:11824:1220/182529.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 22, 2023 14:01:16.36 NEW SESSION
+Dec 22, 2023 14:01:16.36 [16608:15124:1222/140116.338:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 14:34:26.87 [16608:15124:1222/143426.865:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -103
+Dec 22, 2023 14:34:28.93 [16608:15124:1222/143428.930:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 14:34:40.67 [16608:15124:1222/143440.672:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 14:34:54.14 [16608:15124:1222/143454.144:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 14:34:54.35 [16608:8880:1222/143454.350:ERROR:device_event_log_impl.cc(192)] [14:34:54.349] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 14:45:20.81 [16608:15124:1222/144520.817:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 22, 2023 15:55:46.30 [16608:8880:1222/155546.285:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 22, 2023 15:56:19.10 [16608:15124:1222/155619.106:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 22, 2023 15:56:21.13 [16608:8880:1222/155621.134:ERROR:device_event_log_impl.cc(192)] [15:56:21.133] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 22, 2023 15:56:21.20 [16608:15124:1222/155621.207:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 22, 2023 16:38:02.10 [16608:8880:1222/163802.091:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 22, 2023 16:55:52.25 [16608:15124:1222/165552.254:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Dec 23, 2023 14:28:52.54 NEW SESSION
+Dec 23, 2023 14:28:52.54 [6996:15064:1223/142852.540:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 14:29:12.21 [6996:15064:1223/142912.212:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 14:29:26.20 [6996:15064:1223/142926.205:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 14:29:26.58 [6996:16652:1223/142926.584:ERROR:device_event_log_impl.cc(192)] [14:29:26.584] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 14:30:19.27 [6996:15064:1223/143019.277:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 14:32:48.51 [6996:15064:1223/143248.513:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Dec 23, 2023 14:44:59.55 [6996:15064:1223/144459.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 16:19:30.50 [6996:15064:1223/161930.502:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 16:21:49.76 [6996:15064:1223/162149.767:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 16:24:26.74 [6996:15064:1223/162426.741:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 16:37:58.91 [6996:16652:1223/163758.912:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 23, 2023 17:17:42.92 [6996:15064:1223/171742.926:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 17:24:48.57 [6996:15064:1223/172448.576:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 17:37:51.58 [6996:16652:1223/173751.582:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Dec 23, 2023 17:49:16.15 [6996:15064:1223/174916.156:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 18:09:50.00 [6996:16652:1223/180949.994:ERROR:device_event_log_impl.cc(192)] [18:09:49.991] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 23, 2023 18:14:55.61 [6996:15064:1223/181455.613:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 21:16:29.11 [6996:15064:1223/211629.118:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 23, 2023 21:16:29.22 [6996:15064:1223/211629.229:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 23, 2023 21:16:31.24 [6996:15064:1223/211631.248:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 23, 2023 21:17:25.11 [6996:15064:1223/211725.115:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:24:33.77 [6996:15064:1225/122433.756:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 25, 2023 12:24:34.13 [6996:15064:1225/122434.131:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Dec 25, 2023 12:24:34.14 [6996:16652:1225/122434.146:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+
+Dec 26, 2023 16:56:44.16 NEW SESSION
+Dec 26, 2023 16:56:44.16 [2688:16656:1226/165644.133:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Dec 26, 2023 17:58:45.34 [2688:16916:1226/175845.341:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 26, 2023 17:59:27.72 [2688:16916:1226/175927.728:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 26, 2023 18:00:18.61 [2688:16916:1226/180018.611:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 26, 2023 18:43:38.27 [2688:16916:1226/184338.273:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jan 01, 2024 23:34:58.53 NEW SESSION
+Jan 01, 2024 23:34:58.53 [7864:6792:0101/233458.526:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2024 23:35:23.73 [7864:6792:0101/233523.729:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2024 23:36:21.98 [7864:6792:0101/233621.985:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2024 23:37:51.53 [7864:6792:0101/233751.536:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2024 23:40:39.44 [7864:6792:0101/234039.443:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2024 23:47:46.74 [7864:6792:0101/234746.744:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 01, 2024 23:57:46.75 [7864:6792:0101/235746.751:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jan 02, 2024 11:35:40.24 NEW SESSION
+Jan 02, 2024 11:35:40.24 [4388:2440:0102/113540.146:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jan 02, 2024 11:39:05.16 [4388:2440:0102/113905.159:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 02, 2024 14:52:05.43 [4388:2440:0102/145205.371:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jan 02, 2024 17:05:39.40 [4388:13260:0102/170539.324:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Jan 02, 2024 17:14:54.74 [4388:2440:0102/171454.746:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jan 02, 2024 17:37:38.34 [4388:2440:0102/173738.333:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Jan 02, 2024 18:25:10.72 [4388:2440:0102/182510.723:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Mar 05, 2024 13:47:42.57 NEW SESSION
+Mar 05, 2024 13:47:42.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 05, 2024 13:49:01.49 [824:480:0305/134901.493:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Mar 05, 2024 13:50:08.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 05, 2024 13:50:25.35 [8952:2152:0305/135025.357:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 05, 2024 13:50:27.76 [8952:2152:0305/135027.768:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 13:51:23.73 [8952:2152:0305/135123.738:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 05, 2024 13:51:25.15 [8952:2152:0305/135125.149:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 13:51:51.00 [8952:2152:0305/135150.999:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 13:52:47.89 [8952:2152:0305/135247.892:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 13:53:16.32 [8952:2152:0305/135316.320:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2024 13:53:18.33 [8952:2152:0305/135318.332:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 13:54:11.27 [8952:2152:0305/135411.270:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 05, 2024 13:54:12.79 [8952:2152:0305/135412.791:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 14:56:40.37 [8952:2152:0305/145640.369:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 05, 2024 14:57:40.04 [8952:2152:0305/145740.043:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2024 14:57:43.47 [8952:2152:0305/145743.473:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2024 15:11:44.39 [8952:2152:0305/151144.387:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 05, 2024 15:11:50.41 [8952:2152:0305/151150.411:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 15:11:54.12 [8952:5256:0305/151154.122:ERROR:device_event_log_impl.cc(192)] [15:11:54.120] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 05, 2024 15:12:38.92 [8952:2152:0305/151238.921:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 15:14:02.14 [8952:2152:0305/151402.140:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 15:16:44.91 [8952:2152:0305/151644.911:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 05, 2024 18:03:03.51 [8952:2152:0305/180303.507:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 05, 2024 18:26:35.13 [8952:2152:0305/182635.134:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+
+Mar 07, 2024 11:58:23.30 NEW SESSION
+Mar 07, 2024 11:58:23.30 [7860:2532:0307/115823.299:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 11:58:32.46 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 07, 2024 11:58:46.33 [7860:2532:0307/115846.330:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 11:59:31.44 [7860:2532:0307/115931.442:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 12:01:20.18 [7860:2532:0307/120120.187:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 12:05:09.64 [7860:2532:0307/120509.643:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 12:11:51.28 [7860:2532:0307/121151.287:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 12:21:51.30 [7860:2532:0307/122151.299:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 12:31:51.30 [7860:2532:0307/123151.305:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 12:41:51.32 [7860:2532:0307/124151.324:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 12:51:51.34 [7860:2532:0307/125151.341:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:01:51.34 [7860:2532:0307/130151.349:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:11:51.36 [7860:2532:0307/131151.359:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:21:51.36 [7860:2532:0307/132151.367:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:31:51.38 [7860:2532:0307/133151.384:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:39:44.43 [15884:14368:0307/133944.438:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:39:47.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 07, 2024 13:40:10.28 [15884:14368:0307/134010.288:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:41:05.92 [15884:14368:0307/134105.928:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:42:54.45 [15884:14368:0307/134254.452:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 13:44:53.08 [15884:14368:0307/134453.083:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2024 13:50:12.19 [15884:14368:0307/135012.196:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 07, 2024 14:28:00.89 [15884:14368:0307/142800.890:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2024 14:28:03.20 [15884:14368:0307/142803.203:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 14:28:43.45 [15884:14368:0307/142843.454:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 14:30:09.82 [15884:14368:0307/143009.824:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 14:33:36.47 [15884:14368:0307/143336.473:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 14:40:31.40 [15884:14368:0307/144031.402:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 14:50:31.41 [15884:14368:0307/145031.412:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 15:00:31.42 [15884:14368:0307/150031.424:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 15:10:31.44 [15884:14368:0307/151031.442:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 15:20:31.45 [15884:14368:0307/152031.450:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 15:30:31.46 [15884:14368:0307/153031.458:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 15:40:31.52 [15884:14368:0307/154031.490:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 16:05:08.79 [15884:14368:0307/160508.773:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 07, 2024 16:05:10.59 [15884:14368:0307/160510.596:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 16:05:37.53 [15884:14368:0307/160537.528:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 16:06:35.37 [15884:14368:0307/160635.377:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 16:08:18.58 [15884:14368:0307/160818.587:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 16:11:38.70 [15884:14368:0307/161138.700:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 16:18:54.64 [15884:14368:0307/161854.641:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 16:32:26.72 [15884:14368:0307/163226.701:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 07, 2024 16:42:17.85 [15884:14368:0307/164217.694:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 07, 2024 17:08:19.16 [15884:14368:0307/170819.003:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 07, 2024 17:08:20.58 [15884:14368:0307/170820.584:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 17:08:41.98 [15884:14368:0307/170841.981:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 17:09:30.56 [15884:14368:0307/170930.555:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 17:11:19.04 [15884:14368:0307/171119.018:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 17:15:07.02 [15884:14368:0307/171507.024:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 07, 2024 17:22:18.14 [15884:14368:0307/172218.144:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+Mar 08, 2024 17:43:20.57 NEW SESSION
+Mar 08, 2024 17:43:20.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 11, 2024 13:12:06.82 NEW SESSION
+Mar 11, 2024 13:12:06.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2024 13:26:15.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 11, 2024 14:29:43.89 NEW SESSION
+Mar 11, 2024 14:29:43.89 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2024 14:39:17.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2024 15:31:49.46 [9756:13020:0311/153149.452:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 11, 2024 15:52:16.37 [9756:13020:0311/155216.375:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 11, 2024 15:57:31.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2024 16:15:28.62 [1844:6288:0311/161528.622:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 11, 2024 16:24:20.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 11, 2024 16:44:48.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 12:37:13.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 14:02:34.71 [1472:1456:0312/140234.707:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 12, 2024 14:04:48.37 [1472:1456:0312/140448.375:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2024 14:08:47.79 [1472:1456:0312/140847.790:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 12, 2024 14:09:15.26 [1472:1456:0312/140915.264:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2024 14:29:43.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 14:34:23.93 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 14:41:24.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 15:09:33.79 [8020:9228:0312/150933.787:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2024 15:09:36.17 [8020:9228:0312/150936.171:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 12, 2024 15:09:36.55 [8020:12500:0312/150936.554:ERROR:device_event_log_impl.cc(192)] [15:09:36.554] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2024 15:10:24.21 [8020:9228:0312/151024.217:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2024 15:10:43.75 [8020:9228:0312/151043.749:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 12, 2024 15:52:17.65 [8020:9228:0312/155217.646:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 12, 2024 17:24:48.37 [8020:9228:0312/172448.355:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 12, 2024 17:25:18.86 [8020:9228:0312/172518.864:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 12, 2024 17:38:09.85 [8020:9228:0312/173809.847:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 12, 2024 17:40:05.14 [8020:12500:0312/174005.143:ERROR:device_event_log_impl.cc(192)] [17:40:03.750] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2024 18:02:00.22 [8020:9228:0312/180200.190:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+
+Mar 12, 2024 19:05:51.30 NEW SESSION
+Mar 12, 2024 19:05:51.31 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 19:07:42.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 19:13:37.24 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 12, 2024 19:14:36.72 [11212:10264:0312/191436.721:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 12, 2024 22:16:05.63 [11212:10264:0312/221605.633:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 13, 2024 12:27:17.56 [11212:10264:0313/122717.561:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+Mar 13, 2024 12:27:21.91 [11212:10264:0313/122721.919:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:33:11.29 [11212:10264:0313/123311.295:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 13, 2024 12:56:03.66 [11212:10264:0313/125603.657:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:56:20.23 [11212:10264:0313/125620.235:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:56:22.69 [11212:4396:0313/125622.691:ERROR:device_event_log_impl.cc(192)] [12:56:22.656] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 13, 2024 12:56:42.45 [11212:10264:0313/125642.459:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:56:47.86 [11212:10264:0313/125647.865:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:56:57.96 [11212:10264:0313/125657.967:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:57:11.25 [11212:10264:0313/125711.254:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:57:17.52 [11212:10264:0313/125717.524:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:57:24.85 [11212:10264:0313/125724.851:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 12:57:34.35 [11212:10264:0313/125734.351:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 13:03:11.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2024 13:18:06.90 [14700:7460:0313/131806.889:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 13:18:14.04 [14700:7460:0313/131814.041:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 13:18:20.52 [14700:7460:0313/131820.529:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 13:21:03.64 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2024 13:21:50.34 [15356:16168:0313/132150.348:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 13, 2024 13:35:11.82 [15356:16168:0313/133511.826:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 13:52:51.68 [15356:16168:0313/135251.676:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 13, 2024 13:57:34.48 [15356:16168:0313/135734.477:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 13:57:35.97 [15356:16168:0313/135735.973:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 13:57:38.57 [15356:16168:0313/135738.571:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 13, 2024 19:50:41.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2024 19:59:49.91 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2024 20:00:19.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2024 20:03:00.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 13, 2024 20:18:13.47 [3228:13308:0313/201813.464:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 13, 2024 23:19:48.27 [3228:13308:0313/231948.257:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+Mar 14, 2024 11:17:36.56 [3228:13308:0314/111736.566:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:17:36.57 [3228:15008:0314/111736.572:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:17:37.13 [3228:13308:0314/111737.139:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:17:37.17 [3228:15404:0314/111737.161:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:17:39.95 [3228:13308:0314/111739.956:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:17:39.96 [3228:15404:0314/111739.967:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:19:14.05 [3228:13308:0314/111914.049:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:23:08.96 [3228:13308:0314/112308.952:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:28:35.96 [3228:13308:0314/112835.961:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:35:53.63 [3228:15008:0314/113553.632:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:37:08.65 [3228:15008:0314/113708.651:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:38:35.98 [3228:13308:0314/113835.980:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:40:16.17 [3228:15008:0314/114016.171:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:48:04.94 [3228:15008:0314/114804.943:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:48:35.98 [3228:13308:0314/114835.988:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 11:58:04.96 [3228:15008:0314/115804.963:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Mar 14, 2024 11:58:36.00 [3228:13308:0314/115835.999:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 16:09:23.83 [3228:13308:0314/160923.832:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 16:09:23.88 [3228:6992:0314/160923.870:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Mar 14, 2024 16:09:25.87 [3228:13308:0314/160925.874:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 16:09:28.89 [3228:13308:0314/160928.889:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2024 16:10:00.87 [3228:10712:0314/161000.871:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).

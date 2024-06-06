@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelHipImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelJDBCImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.BankListCtl"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.BankModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.BankCtl"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.exception.ApplicationException"/>
+    <fullyQualifiedTypeName name="org.hibernate.HibernateException"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.exception.DuplicateRecordException"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BankDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.controller.BaseCtl"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.util.HibDataSource"/>
+    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.OrderDTO"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+    <fullyQualifiedTypeName name="java.util.function.Supplier"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.ModelFactory"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.SupplierModelHipImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.SupplierModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.SupplierDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.PaymentDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.BaseDTO"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelHipImp"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.model.OrderModelInt"/>
+    <fullyQualifiedTypeName name="in.co.rays.project_3.dto.OrderDto"/>
+</qualifiedTypeNameHistroy>
